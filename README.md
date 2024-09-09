@@ -23,7 +23,7 @@ Adicionar novas funcionalidades: Quer que a aplicação mostre outras informaç�
 Melhorar o design: Tem ideias para deixar a interface mais bonita e intuitiva? Compartilhe seus designs!
 Vamos juntos criar a melhor ferramenta de busca de voos do mundo!
 
-#desenvolvedor #programador #viagem #aviao #html #css #javascript #github
+#desenvolvedor #programador #viagem #aviao #html #css #javascript #github #alura #imersao-dev-google-gemini
 
 ** Bora voar alto!**
 
